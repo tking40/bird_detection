@@ -1,0 +1,33 @@
+# Data directory
+data/
+
+# Local bashrc used to activate conda env and other aliases
+.bashrc
+
+# Byte-compiled files
+*.pyc
+
+# PyTorch checkpoint files
+*.pt
+*.pth
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Cache files
+__pycache__/
+
+# Build directories
+build/
+dist/
+*.egg-info/
+
+*.DS_Store
